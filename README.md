@@ -1,24 +1,9 @@
-# README
+# Rails blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple blog site built in Rails 7.1 that performs basic CRUD operations
 
-Things you may want to cover:
+Dependencies:
 
-* Ruby version
+* Ruby 3.1.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails 7.1
