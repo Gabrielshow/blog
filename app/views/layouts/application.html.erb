@@ -7,6 +7,9 @@
     <%= csp_meta_tag %>
 
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <% if controller_name == 'articles' %>
+      <%= stylesheet_link_tag 'articles', "data-turbo-track": "reload" %>
+    <% end %>
   </head>
 
   <body>
